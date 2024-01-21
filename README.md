@@ -35,4 +35,4 @@
 
 * 4. Shell sort - Knuth Sequence
 
-5. Cocktail shaker sort
+* 5. Cocktail shaker sort
